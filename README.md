@@ -86,7 +86,7 @@ I spend my time working on:
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" />
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" />
 
 </td>
 
