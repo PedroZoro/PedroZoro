@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00FFE1&center=true&vCenter=true&width=900&lines=root%40pedrozoro%3A~%24+whoami;Aditi+Jha+%E2%80%94+Cybersecurity+%26+GRC+Enthusiast;Security+Research+%7C+Automation+%7C+Tool+Builder;Learn.+Build.+Ship." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=ffd700&center=true&vCenter=true&width=900&lines=root%40pedrozoro%3A~%24+whoami;Aditi+Jha+%E2%80%94+Cybersecurity+%26+GRC+Enthusiast;Security+Research+%7C+Automation+%7C+Tool+Builder;Learn.+Build.+Ship." />
 
 <br/><br/>
 
