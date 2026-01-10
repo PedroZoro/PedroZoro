@@ -63,7 +63,7 @@ I spend my time working on:
 
 <div align="center">
  TECH STACK 
-</div> <div align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark" /> <br/> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> </div>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark" /> <br/> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> </p>
 
 <div align="center">
  LIVE STATS 
