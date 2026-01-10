@@ -56,7 +56,9 @@ I spend my time working on:
 
 
 [ CYBERSECURITY ]   Threat Detection • Network Security • Security Automation
+
 [ GRC ]             Risk • Compliance • Policies • Controls • Frameworks
+
 [ RESEARCH ]         Security Research • Tool Building • Practical Learning
 
 </div>
