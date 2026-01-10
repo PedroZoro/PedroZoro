@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:00ffe1&text=Aditi%20Jha&fontColor=00ffe1&fontSize=64&fontAlignY=35&animation=twinkling&desc=Cybersecurity%20%7C%20GRC%20%7C%20Security%20Research%20%7C%20Tool%20Builder&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,100:00ffe1&text=Aditi%20Jha&fontColor=ffd700&fontSize=64&fontAlignY=35&animation=twinkling&desc=Cybersecurity%20%7C%20GRC%20%7C%20Security%20Research%20%7C%20Tool%20Builder&descAlignY=60&descSize=18" />
 
 <br/>
 
