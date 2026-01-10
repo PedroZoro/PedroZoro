@@ -42,7 +42,6 @@ I spend my time working on:
 
 
 
-```
 <div align="center">
   
 ## CORE INTERESTS
