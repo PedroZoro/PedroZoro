@@ -1,8 +1,9 @@
-<!-- ========================= -->
-<!--  PEDROZORO PROFILE README -->
-<!--  THEME: TRON / NEON CYBER -->
-<!--  NAME: ADITI JHA           -->
-<!-- ========================= -->
+<!-- ██████╗ ███████╗██████╗ ██████╗  ██████╗ ███████╗ ██████╗ ██████╗  ██████╗ -->
+<!-- ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗██╔════╝██╔═══██╗██╔══██╗██╔═══██╗ -->
+<!-- ██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║███████╗██║   ██║██████╔╝██║   ██║ -->
+<!-- ██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║╚════██║██║   ██║██╔══██╗██║   ██║ -->
+<!-- ██║     ███████╗██████╔╝██║  ██║╚██████╔╝███████║╚██████╔╝██║  ██║╚██████╔╝ -->
+<!-- ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  -->
 
 <div align="center">
 
@@ -10,37 +11,35 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFE1&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditi+Jha+%F0%9F%91%8B;Cybersecurity+%26+GRC+Enthusiast;Building+Security+Tools+%7C+Research+Projects;Always+Learning+%7C+Always+Shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00FFE1&center=true&vCenter=true&width=900&lines=root%40pedrozoro%3A~%24+whoami;Aditi+Jha+%E2%80%94+Cybersecurity+%26+GRC+Enthusiast;Security+Research+%7C+Automation+%7C+Tool+Builder;Learn.+Build.+Ship." />
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/THEME-NEON%20TRON-black?style=for-the-badge&labelColor=000000&color=00ffe1" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-black?style=for-the-badge&labelColor=000000&color=39ff14" />
-<img src="https://img.shields.io/badge/Track-GRC-black?style=for-the-badge&labelColor=000000&color=00bfff" />
-<img src="https://img.shields.io/badge/Vibe-Glowy%20%26%20Clean-black?style=for-the-badge&labelColor=000000&color=ff00ff" />
+<img src="https://img.shields.io/badge/THEME-NEON%20CYAN%20%26%20BLACK-black?style=for-the-badge&labelColor=000000&color=00ffe1" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-black?style=for-the-badge&labelColor=000000&color=00bfff" />
+<img src="https://img.shields.io/badge/TRACK-GRC-black?style=for-the-badge&labelColor=000000&color=00ffe1" />
+<img src="https://img.shields.io/badge/VIBE-TRON%20HUD-black?style=for-the-badge&labelColor=000000&color=39ff14" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=00ffe1&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=00ffe1&label=PROFILE%20HITS" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🛡️ About Me
 
-## 🛡️ ABOUT ME
+I’m **Aditi Jha** — a **Cybersecurity & GRC enthusiast** who loves building **research-driven projects** and developing tools that solve real-world security problems.
 
-</div>
+I spend my time working on:
+- security automation & tooling  
+- governance, risk & compliance fundamentals  
+- network security & monitoring  
+- threat analysis mindset + research learning  
 
-```diff
-+ 👋 Hello! I'm Aditi Jha (GitHub: PedroZoro)
-+ 🛡️ Cybersecurity & GRC enthusiast
-+ 🔬 I love research-based projects, security automation & tool building
-+ 🧠 Interested in risk, governance, security controls, monitoring & defense
-+ ⚡ I believe in learning by building
+> **Mindset**
+
 
 
 ```
