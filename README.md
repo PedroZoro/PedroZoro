@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=00ffe1&label=PROFILE%20HITS" /> 
+<img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=FFE448&label=PROFILE%20HITS" /> 
 
 
 </div>
