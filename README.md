@@ -120,7 +120,7 @@ I spend my time working on:
 <div align="center">
  CONNECT 
 </div> <div align="center"> 
-  <a href="https://www.linkedin.com/in/aditi-jha-pedro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge &logo=LinkedIn&logoColor=39ff14&labelColor=106360&color=C28F2D" /> </a> 
+  <a href="https://www.linkedin.com/in/aditi-jha-pedro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=LinkedIn&logoColor=39ff14&labelColor=106360&color=C28F2D" /> </a> 
   <a href="mailto:jhaaditi303@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hi-black?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=106360&color=C28F2D" /> </a> 
   <a href="https://github.com/PedroZoro" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=106360&color=C28F2D" /> </a> </div>
 
