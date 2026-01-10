@@ -30,7 +30,7 @@
 ---
 <div align="center">
   
-<h2 style="color:#FFD700;"> ABOUT ME </h2>
+## ABOUT ME 
 
 </div>
 
