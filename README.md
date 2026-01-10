@@ -61,11 +61,11 @@
 
 
 <div align="center">
- TECH STACK (NEON GRID)
+ TECH STACK 
 </div> <div align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark" /> <br/> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> </div>
 
 <div align="center">
- LIVE STATS (AUTO UPDATED)
+ LIVE STATS 
 </div> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffe1&icon_color=39ff14&text_color=00ffe1" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZoro&theme=tokyonight&hide_border=true&background=000000&ring=00ffe1&fire=39ff14&currStreakLabel=00ffe1" /> <br/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" /> </div>
 
 <div align="center">
@@ -77,7 +77,7 @@
 </div> <div align="center"> <img src="https://raw.githubusercontent.com/PedroZoro/PedroZoro/output/github-contribution-grid-snake-dark.svg" /> </div> -->
 
 <div align="center">
- CONNECT (NEON BUTTONS)
+ CONNECT 
 </div> <div align="center"> <a href="https://www.linkedin.com" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=00ffe1&labelColor=000000&color=00ffe1" /> </a> <a href="mailto:yourmail@example.com"> <img src="https://img.shields.io/badge/Email-Say%20Hi-black?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=000000&color=39ff14" /> </a> <a href="https://github.com/PedroZoro" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=000000&color=ff00ff" /> </a> </div>
 
 <div align="center">
