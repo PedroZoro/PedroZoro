@@ -73,38 +73,7 @@ I spend my time working on:
 
 </div>
 
-<div align="center">
-<table>
-<tr>
-
-<!-- LEFT SIDE: Your working stats + streak -->
-<td width="60%" align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&hide_border=true&bg_color=000000&title_color=00ffe1&icon_color=00ffe1&text_color=00ffe1" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZoro&hide_border=true&background=000000&ring=00ffe1&fire=00ffe1&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
-
-</td>
-
-<!-- RIGHT SIDE: LIVE LANGUAGE STATUS -->
-<td width="40%" align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=donut&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=donut-vertical&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
-
-</td>
-
-</tr>
-</table>
-</div>
-
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffe1&icon_color=39ff14&text_color=00ffe1" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZoro&theme=tokyonight&hide_border=true&background=000000&ring=00ffe1&fire=39ff14&currStreakLabel=00ffe1" /> <br/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" /> </div>
 ---
 
 <div align="center">
