@@ -15,10 +15,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/THEME-NEON%20CYAN%20%26%20BLACK-black?style=for-the-badge&labelColor=000000&color=00ffe1" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-black?style=for-the-badge&labelColor=000000&color=00bfff" />
-<img src="https://img.shields.io/badge/TRACK-GRC-black?style=for-the-badge&labelColor=000000&color=00ffe1" />
-<img src="https://img.shields.io/badge/VIBE-TRON%20HUD-black?style=for-the-badge&labelColor=000000&color=39ff14" />
+<img src="https://img.shields.io/badge/THEME-NEON%20CYAN%20%26%20BLACK-black?style=for-the-badge&labelColor=9F122C&color=CA31F6" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-black?style=for-the-badge&labelColor=9F122C&color=CA31F6" />
+<img src="https://img.shields.io/badge/TRACK-PROFILE-black?style=for-the-badge&labelColor=9F122C&color=CA31F6" />
+<img src="https://img.shields.io/badge/VIBE-TRON%20HUD-black?style=for-the-badge&labelColor=9F122C&color=CA31F6" />
 
 <br/><br/>
 
