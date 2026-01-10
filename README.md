@@ -79,14 +79,14 @@ I spend my time working on:
 
 <td width="50%" align="center">
 
-<img src="https://readme-stats-fork-mauve.vercel.app/api?username=PedroZoro&show_icons=true&count_private=true&hide_border=true&bg_color=00ffe1&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1&cache_seconds=1800" />
+<img src="https://readme-stats-fork-mauve.vercel.app/api?username=PedroZoro&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com?user=PedroZoro&hide_border=true&background=00ffe1&ring=00ffe1&fire=ffd700&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1&stroke=00ffe1&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=PedroZoro&hide_border=true&background=000000&ring=00ffe1&fire=ffd700&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1&stroke=00ffe1&cache_seconds=1800" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=8&hide_border=true&bg_color=00ffe1&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" />
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" />
 
 </td> 
 
