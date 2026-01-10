@@ -84,11 +84,36 @@ I spend my time working on:
 
 </td>
 
-<td width="50%" align="center">
+<!-- <td width="50%" align="center">
 
 <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&cache_seconds=1800" />
 
+</td> -->
+
+
+<td width="50%" align="center">
+
+<img src="https://readme-stats-fork-mauve.vercel.app/api?username=PedroZoro&theme=dark&show_icons=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=PedroZoro&theme=dark" />
+
 </td>
+
+<td width="50%" align="center">
+
+<!-- HUD COUNTER (looks integrated) -->
+<img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=00ffe1&label=VISITORS" />
+
+<br/><br/>
+
+<!-- LANGUAGE PANEL -->
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=PedroZoro&theme=dark&no-frame=true&langs_count=6" />
+
+
+
+</tr>
+</table>
+
 
 </tr>
 </table>
