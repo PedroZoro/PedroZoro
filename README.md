@@ -22,32 +22,7 @@
 
 <br/><br/>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=00ffe1&label=PROFILE%20HITS" /> -->
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img src="https://readme-stats-fork-mauve.vercel.app/api?username=PedroZoro&theme=dark&show_icons=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=PedroZoro&theme=dark" />
-
-</td>
-
-<td width="50%" align="center">
-
-<!-- HUD COUNTER (looks integrated) -->
-<img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=00ffe1&label=VISITORS" />
-
-<br/><br/>
-
-<!-- LANGUAGE PANEL -->
-<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=PedroZoro&theme=dark&no-frame=true&langs_count=6" />
-
-</td>
-
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=PedroZoro&style=for-the-badge&color=00ffe1&label=PROFILE%20HITS" /> 
 
 
 </div>
