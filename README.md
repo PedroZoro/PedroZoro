@@ -74,36 +74,35 @@ I spend my time working on:
 </div>
 
 <div align="center">
-
 <table>
 <tr>
 
-<!-- LEFT SIDE: MAIN STATS + STREAK -->
+<!-- LEFT SIDE -->
 <td width="50%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PedroZoro&hide_border=true&background=000000&ring=00ffe1&fire=00ffe1&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1&stroke=00ffe1" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PedroZoro&hide_border=true&background=000000&ring=00ffe1&fire=00ffe1&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1&stroke=00ffe1" />
 
 </td>
 
-<!-- RIGHT SIDE: TOP LANGS + LANGUAGE PROGRESS CARD -->
+<!-- RIGHT SIDE -->
 <td width="50%" align="center">
 
+<!-- Auto-updating programming languages panel -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
 
 <br/>
 
-<!-- EXTRA: LIVE LANGUAGE PANEL (AUTO-UPDATED) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroZoro&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroZoro&theme=github_dark" />
+<!-- Extra live status widget (stable) -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroZoro&repo=PedroZoro&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1" />
 
 </td>
 
 </tr>
 </table>
-
 </div>
 
 ---
