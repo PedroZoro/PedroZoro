@@ -39,7 +39,7 @@ I spend my time working on:
 - threat analysis mindset + research learning  
 
 > **Mindset**
-
+[ learn → build → test → improve → ship ]
 
 
 <div align="center">
