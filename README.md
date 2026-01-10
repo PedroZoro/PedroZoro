@@ -77,27 +77,27 @@ I spend my time working on:
 <table>
 <tr>
 
-<!-- LEFT SIDE -->
-<td width="50%" align="center">
+<!-- LEFT SIDE: Your working stats + streak -->
+<td width="60%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&hide_border=true&bg_color=000000&title_color=00ffe1&icon_color=00ffe1&text_color=00ffe1" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZoro&hide_border=true&background=000000&ring=00ffe1&fire=00ffe1&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PedroZoro&hide_border=true&background=000000&ring=00ffe1&fire=00ffe1&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1&stroke=00ffe1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
 
 </td>
 
-<!-- RIGHT SIDE -->
-<td width="50%" align="center">
+<!-- RIGHT SIDE: LIVE LANGUAGE STATUS -->
+<td width="40%" align="center">
 
-<!-- Auto-updating programming languages panel -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=donut&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
 
 <br/>
 
-<!-- Extra live status widget (stable) -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroZoro&repo=PedroZoro&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=donut-vertical&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
 
 </td>
 
