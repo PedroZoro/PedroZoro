@@ -28,7 +28,7 @@
 
 ---
 <div align="center">
-## About Me
+About Me
 </div>
 
 I’m **Aditi Jha** — a **Cybersecurity & GRC enthusiast** who loves building **research-driven projects** and developing tools that solve real-world security problems.
