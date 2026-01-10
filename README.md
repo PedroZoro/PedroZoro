@@ -114,8 +114,8 @@ I spend my time working on:
 <div align="center">
  CONNECT 
 </div> <div align="center"> 
-  <a href="https://www.linkedin.com/in/aditi-jha-pedro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&logoColor=00ffe1&labelColor=000000&color=00ffe1" /> </a> 
-  <a href="mailto:yourmail@example.com"> <img src="https://img.shields.io/badge/Email-Say%20Hi-black?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=000000&color=39ff14" /> </a> 
+  <a href="https://www.linkedin.com/in/aditi-jha-pedro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge" /> </a> 
+  <a href="mailto:jhaaditi303@gmail.com"> <img src="https://img.shields.io/badge/Email-Say%20Hi-black?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=000000&color=39ff14" /> </a> 
   <a href="https://github.com/PedroZoro" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=000000&color=ff00ff" /> </a> </div>
 
 <div align="center">
