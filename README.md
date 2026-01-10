@@ -65,13 +65,60 @@ I spend my time working on:
  TECH STACK 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode&theme=dark" /> <br/> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> </p>
 
-<div align="center">
- LIVE STATS 
-</div> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffe1&icon_color=39ff14&text_color=00ffe1" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroZoro&theme=tokyonight&hide_border=true&background=000000&ring=00ffe1&fire=39ff14&currStreakLabel=00ffe1" /> <br/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" /> </div>
+---
 
 <div align="center">
- ACTIVITY GRAPH
-</div> <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroZoro&bg_color=000000&color=00ffe1&line=39ff14&point=ff00ff&area=true&hide_border=true" /> </div>
+
+## LIVE STATS 
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+
+<!-- LEFT SIDE: MAIN STATS + STREAK -->
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PedroZoro&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1&icon_color=00ffe1" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PedroZoro&hide_border=true&background=000000&ring=00ffe1&fire=00ffe1&currStreakLabel=00ffe1&sideLabels=00ffe1&dates=00ffe1&stroke=00ffe1" />
+
+</td>
+
+<!-- RIGHT SIDE: TOP LANGS + LANGUAGE PROGRESS CARD -->
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZoro&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=00ffe1&text_color=00ffe1" />
+
+<br/>
+
+<!-- EXTRA: LIVE LANGUAGE PANEL (AUTO-UPDATED) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroZoro&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroZoro&theme=github_dark" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## ACTIVITY GRAPH
+
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroZoro&bg_color=000000&color=00ffe1&line=00ffe1&point=00ffe1&area=true&area_color=00ffe1&hide_border=true" />
+</div>
+
+---
 
 <!-- <div align="center">
  TRON SNAKE (Contribution Animation)
