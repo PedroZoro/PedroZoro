@@ -110,7 +110,7 @@ I spend my time working on:
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroZoro&bg_color=000000&color=00ffe1&line=00ffe1&point=00ffe1&area=true&area_color=00ffe1&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroZoro&bg_color=000000&color=00ffe1&line=00ffe1&point=ffd700&area=true&area_color=00ffe1&hide_border=true" />
 </div>
 
 ---
